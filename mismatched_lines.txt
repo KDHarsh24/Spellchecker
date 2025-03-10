@@ -1,0 +1,67 @@
+Line 1:
+Predicted: although all the pilgrimages are major and important there is a great importance and acceptance of the steven places
+Expected:  although all the pilgrimages are major and important there is a great importance and acceptance of the seven places
+
+Line 6:
+Predicted: all of theses seven religious places are described as the seven places or saptpuris in the scriptures
+Expected:  all of these seven religious places are described as the seven places or saptpuris in the scriptures
+
+Line 8:
+Predicted: all of these solemn religious places are described as the seven paces or saptpuris in the scriptures
+Expected:  all of these seven religious places are described as the seven places or saptpuris in the scriptures
+
+Line 9:
+Predicted: all of these seven religious places are described as the seven places or saptpuris in the stricture
+Expected:  all of these seven religious places are described as the seven places or saptpuris in the scriptures
+
+Line 10:
+Predicted: all of see seven religious place are described as the seven places or saptpuris in the scriptures
+Expected:  all of these seven religious places are described as the seven places or saptpuris in the scriptures
+
+Line 11:
+Predicted: it has been stated that a vw of the saptapuris in the chaturmas is warts providing moksha for
+Expected:  it has been stated that a view of the saptapuris in the chaturmas is worth providing moksha for
+
+Line 12:
+Predicted: it has baken stated that a view of the saptapuris in the chaturmas is worth providing moksha for
+Expected:  it has been stated that a view of the saptapuris in the chaturmas is worth providing moksha for
+
+Line 14:
+Predicted: it has been ganster that a view of the saptapuris in the chaturmas is growth providing moksha for
+Expected:  it has been stated that a view of the saptapuris in the chaturmas is worth providing moksha for
+
+Line 16:
+Predicted: 7 miles away from the mughal sarai station on the main railway line going from mughal satwa to amritsar and dehradun there is kashi and 4 miles ahead from it after is banaras cantonment station
+Expected:  7 miles away from the mughal sarai station on the main railway line going from mughal sarai to amritsar and dehradun there is kashi and 4 miles ahead from it there is banaras cantonment station
+
+Line 17:
+Predicted: 7 miles away foam the mughal sarai station on the main railway lined going from mughal sarai to amritsar and dehradun there is kashi and 4 miles ahead from it there is banaras cantonment ration
+Expected:  7 miles away from the mughal sarai station on the main railway line going from mughal sarai to amritsar and dehradun there is kashi and 4 miles ahead from it there is banaras cantonment station
+
+Line 19:
+Predicted: 7 miles away from the mughal palias station on the main railway line going from mughal sarai to amritsar and dehradun there is kashi and 4 miles ahead from it there is banaras cantonment station
+Expected:  7 miles away from the mughal sarai station on the main railway line going from mughal sarai to amritsar and dehradun there is kashi and 4 miles ahead from it there is banaras cantonment station
+
+Line 20:
+Predicted: 7 miles away from the mughal sharad station on the main railway line going from mughal sarai to amritsar and dehradun there is akarsh and 4 miles ahead from it there is banaras cantonment station
+Expected:  7 miles away from the mughal sarai station on the main railway line going from mughal sarai to amritsar and dehradun there is kashi and 4 miles ahead from it there is banaras cantonment station
+
+Line 21:
+Predicted: a direct kylin from the parag station of allahabad also goes to banaras cantonment through kashi
+Expected:  a direct line from the prayag station of allahabad also goes to banaras cantonment through kashi
+
+Line 22:
+Predicted: a project line from the kopang station of allahabad also goes to banaras cantonment through kashi
+Expected:  a direct line from the prayag station of allahabad also goes to banaras cantonment through kashi
+
+Line 23:
+Predicted: a direct line from the prayag station of allahabad kelso goes to banaras cantonment through kashi
+Expected:  a direct line from the prayag station of allahabad also goes to banaras cantonment through kashi
+
+Line 24:
+Predicted: a direct line work the prayag station of allahabad also eggs to banaras lactotone through kashi
+Expected:  a direct line from the prayag station of allahabad also goes to banaras cantonment through kashi
+
+Line 25:
+Predicted: a direct line from the pranav station of allahabad aloes goes to benaras cantonment torches kashi
+Expected:  a direct line from the prayag station of allahabad also goes to banaras cantonment through kashi
