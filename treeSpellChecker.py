@@ -7,7 +7,6 @@ from trieDataStructure import Trie
 trie = Trie()
 trie.load_from_file()
 
-# Function to clean text (removes punctuation but keeps spaces)
 def clean_text(text):
     return re.sub(r"[^\w\s]", "", text).strip().lower().replace("  ", " ")
 
@@ -24,7 +23,6 @@ def correct_text(src_file, tgt_file):
             for line in tqdm(file, total=total_lines, desc="🔍 Correcting Text", unit="line"):
                 words = clean_text(line).split()  # Tokenize words
                 corrected_words = []
-
                 for word in words:
                     levenD = 2
                     correct_words = []
